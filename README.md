@@ -11,3 +11,11 @@ http://bit.ly/py-df-2019-register
 http://bit.ly/py-df-2019
 
 
+## Course Requirements
+
+* Individual/Group project(program) in Python - 6 points
+* Presentation on Python library 1-3 points
+* Participation/attendance bonus 1 point
+
+
+It is expected that students will acquire necessary Python basics during the course(we covered Python basics in the 2019 fall seminar)
