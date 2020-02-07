@@ -31,7 +31,6 @@ https://www.anaconda.com/download/
 
 
 
-
 ## Course Requirements
 
 * Individual/Group project(program) in Python - 6 points
