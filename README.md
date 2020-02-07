@@ -5,7 +5,7 @@ Python Seminar at University of Latvia Spring 2020
 http://selavo.lv/pysem
 
 ## Register for the seminar
-http://bit.ly/py-df-2019-register
+https://forms.gle/1kNph9X7LkhCdffA6 2020 spring address
 
 ## Join the Slack channel for the seminar
 http://bit.ly/py-df-2019
