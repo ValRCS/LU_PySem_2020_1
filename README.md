@@ -5,10 +5,10 @@ Python Seminar at University of Latvia Spring 2020
 http://selavo.lv/pysem
 
 ## Register for the seminar
-https://forms.gle/1kNph9X7LkhCdffA6 2020 spring address
+[Register](https://forms.gle/1kNph9X7LkhCdffA6) 2020 spring address
 
 ## Join the Slack channel for the seminar
-http://bit.ly/py-df-2019
+[Join Slack](https://join.slack.com/t/pythonludf/shared_invite/enQtOTM2MDkxNzcwMDM4LWE2NmQ3MmMwMWUyZThjMDIyZDI2ODZhNmE0ZTBlMjhiOTA0NmI2YjNiNzg2YTIxZWMyNGYzMDcyMWM1ZTI5NWU)
 
 ## Recommend installing Anaconda (Jupyter notebooks,Python + many libraries), on your local computer:
 
@@ -21,7 +21,7 @@ https://www.anaconda.com/download/
 
 ## Syllabus
 
-* Python Standart Library  (argparse, Collections, etc)
+* Python Standard Library  (argparse, Collections, etc)
 * Machine Learning with Pytorch (we did Tensorflow last semester)
 * Text recognition and training with Tesseract
 * Natural Language Processing with NLTK and other tools
