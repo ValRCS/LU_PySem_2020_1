@@ -23,10 +23,13 @@ https://www.anaconda.com/download/
 
 * Python Standard Library  (argparse, Collections, etc)
 * Machine Learning with Pytorch (we did Tensorflow last semester)
+* Packaging Topic for distribution
 * Text recognition and training with Tesseract
 * Natural Language Processing with NLTK and other tools
 * Web Development with Flask and Django (presenters can apply)
 * Working with databases* with SQLAlchemy
+* Plotly other visualization libraries
+* UI libraries (PySides for QT!)
 * other cool libraries/projects
 
 
