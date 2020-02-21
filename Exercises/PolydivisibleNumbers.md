@@ -2,7 +2,7 @@
 
 https://www.codewars.com/kata/5e4217e476126b000170489b
 
-I read a book recently, titled "Things to Make and Do in the Fourth Dimension" by comedian and mathematician (Matt Parker)[https://www.youtube.com/user/standupmaths], and in the first chapter of the book Matt talks about problems he likes to solve in his head to take his mind off the fact that he is in his dentist's chair, we've all been there!
+I read a book recently, titled "Things to Make and Do in the Fourth Dimension" by comedian and mathematician [Matt Parker](https://www.youtube.com/user/standupmaths), and in the first chapter of the book Matt talks about problems he likes to solve in his head to take his mind off the fact that he is in his dentist's chair, we've all been there!
 
 The problem he talks about relates to polydivisible numbers, and I thought a kata should be written on the subject as it's quite interesting. (Well it's interesting to me, so there!)
 
