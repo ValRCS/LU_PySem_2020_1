@@ -7,7 +7,7 @@ https://en.wikipedia.org/wiki/Collatz_conjecture
 
 ## Intermediate
 
-Write a function to return 10 numbers wiht the longest steps needed up to and including some number n(should work up to 100k at least).
+Write a function to return 10 numbers with the longest steps needed up to and including some number n(should work up to 100k at least).
 
 ## Harder
 
