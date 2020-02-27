@@ -12,3 +12,4 @@ Write a function to return 10 numbers wiht the longest steps needed up to and in
 ## Harder
 
 Visualize results up to 100k using some plotting library (Plotly, matplotlib, seaborn etc).
+![Example](https://en.wikipedia.org/wiki/File:Collatz-stopping-time.svg)
