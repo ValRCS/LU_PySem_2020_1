@@ -8,7 +8,8 @@ Kind of dry and might not be best for beginners
 
 # Python Tutorials
 
-* https://automatetheboringstuff.com/
+* https://automatetheboringstuff.com/ (highly recommended for beginners!)
+* https://www.slitherintopython.com/ (nice new book)
 * https://www.learnpython.org/
 * https://erlerobotics.gitbooks.io/erle-robotics-learning-python-gitbook-free/content/
 
