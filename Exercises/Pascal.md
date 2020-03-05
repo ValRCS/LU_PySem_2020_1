@@ -3,6 +3,7 @@
 * Test/Submit here: https://www.codewars.com/kata/56e7d40129035aed6c000632
 
 * [Wiki on Pascal's Triangle](https://en.wikipedia.org/wiki/Pascal%27s_triangle)
+
 ![Pascal's Triangle](https://upload.wikimedia.org/wikipedia/commons/0/0d/PascalTriangleAnimated2.gif)
 
 In the drawing below we have a part of the Pascal's triangle, lines are numbered from zero (top).
