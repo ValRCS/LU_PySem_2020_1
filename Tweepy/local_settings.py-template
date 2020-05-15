@@ -1,0 +1,14 @@
+
+
+# Please configure your Twitter API key/secret and your access token's key/secret:
+
+api = {
+    "key": "",
+    "secret": ""
+}
+
+access_token = {
+    "key": "",
+    "secret": ""
+}
+
